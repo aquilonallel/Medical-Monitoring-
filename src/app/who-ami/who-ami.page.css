@@ -6,13 +6,12 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
     top: 30%;
-
+    border: 1px solid black;
     margin: auto;
 }
 
 img{
-    height: 160px;
-    width: 160px;
+    height: minmax(160px, auto);
+    width: minmax(160px, auto);
 }
