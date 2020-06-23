@@ -16,6 +16,6 @@ p{
     width: minmax(175px, auto);
 }
 img{
-    height: 150px;
-    width: 150px;
+    height: 35vh;
+    width:  45vw;
 }
