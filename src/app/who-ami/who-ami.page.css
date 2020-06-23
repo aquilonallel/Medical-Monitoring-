@@ -1,5 +1,6 @@
 p{
     text-align: center;
+    font-size: 3vh;
 }
 
 .ion-content{
@@ -7,10 +8,14 @@ p{
     justify-content: center;
     align-items: center;
     top: 30%;
+    position: relative;
     margin: auto;
 }
-
+.buttons{
+    height: minmax(175px, auto);
+    width: minmax(175px, auto);
+}
 img{
-    height: minmax(160px, auto);
-    width: minmax(160px, auto);
+    height: 150px;
+    width: 150px;
 }
